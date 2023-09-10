@@ -1,2 +1,2 @@
 # DevThatWeb
-Work some.
+Some Web Development mini-projects to be uploaded here.
